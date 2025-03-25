@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Evolutionary Systematics
+description: Browse data on GBIF associated with publications in Evolutionary Systematics
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Köhler J, Venegas PJ, Castillo-Urbina E, Glaw F, Aguilar-Puntriano C, Vences M (2023) A third species of glassfrog in the genus _Chimerella_ (Anura, Centrolenidae) from central Peru, discovered by an integrative taxonomic approach. Evolutionary Systematics 7(2): 195-209. [https://doi.org/10.3897/evolsyst.7.102950](https://doi.org/10.3897/evolsyst.7.102950)"
 height: 75vh
 cta:
   - text: Datasets
