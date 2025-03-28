@@ -8,7 +8,7 @@ stats:
       description: Datasets
       background: /assets/images/icons/datasets.svg
       href: https://www.gbif.org/dataset/search?publishing_org=7597e7d3-b8d6-4ecf-84a3-d731d8b6d290&advanced=1 "target='_blank'"
-    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=7597e7d3-b8d6-4ecf-84a3-d731d8b6d290&peerReview=true&relevance=GBIF_USED&limit=0">100,000</span>
-      description: Citations
-      background: /assets/images/icons/citations.svg
-      href: https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=7597e7d3-b8d6-4ecf-84a3-d731d8b6d290&peerReview=true&relevance=GBIF_USED "target='_blank'"
+#    - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=7597e7d3-b8d6-4ecf-84a3-d731d8b6d290&peerReview=true&relevance=GBIF_USED&limit=0">100,000</span>
+#      description: Citations
+#      background: /assets/images/icons/citations.svg
+#      href: https://www.gbif.org/resource/search?contentType=literature&publishingOrganizationKey=7597e7d3-b8d6-4ecf-84a3-d731d8b6d290&peerReview=true&relevance=GBIF_USED "target='_blank'"
